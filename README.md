@@ -26,7 +26,7 @@ Handles basic personal information and input validation.
 
 | Attribute    | Type         | Description |
 |:------------|:-------------|:------------------|
-| id         | int        | Unique academic ID (positive integer) |
+| id         | int        | Unique academic   ID (positive integer) |
 | name       | String     | Full name (must not contain numbers or symbols) |
 | e_mail     | String     | Auto-generated university email based on name and ID |
 | phoneNumber| int        | Phone number (validated to be digits only) |
